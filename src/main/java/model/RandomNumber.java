@@ -1,6 +1,8 @@
 package model;
 
 
+import camp.nextstep.edu.missionutils.Randoms;
+
 public class RandomNumber {
     private static final int startNun = 0;
     private static final int endNum = 9;
